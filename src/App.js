@@ -94,7 +94,7 @@ function App() {
               id='password-strength'
               name='password-strength'
               max='20'
-              min='10'
+              min='8'
             />
           </div>
 
